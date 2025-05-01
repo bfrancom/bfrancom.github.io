@@ -15,20 +15,19 @@ I like to have fun while working hard, and love [God](https://churchofjesuschris
 - I’m currently working on Enterprise Architecture at my day job, and do some other various and miscellaneous things described below.
 - Some things I've created:
   - [pod2book](https://pod2book.com) tool that uses AI to convert podcasts to eBooks for the neurodivergent, deaf/hard of hearing and people that just like to read.
-  - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert)
+  - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool) helps with SOC 2 audits for GitHub 
+  - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert) so you don't keep developers waiting to become productive
   - [EISMGard Company](https://www.eismgard.com)
   - [Website](https://benfran.com)
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
-  - [Habit Wallpaper](https://habituwall.com)
-  - [AD-minister Better book and resources](https://administerbetter.com)
+  - [Habit Wallpaper](https://habituwall.com) phone wallpaper to help make and keep habits
+  - [AD-minister Better book and resources](https://administerbetter.com) book to help church leaders with their churchly duties
   - [Grafana contributor](https://github.com/grafana/grafana-github-actions/commits?author=bfrancom)
   - [Backstage.io contributor](https://github.com/backstage/backstage/pull/24137/commits)
   - [GitHub Gists](https://gist.github.com/bfrancom)
   - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
-  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
+  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount) tool that helps ward clerks with their churchly duties by helping with counting people
 - Fun Facts:
-  - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art)
   - I've found and reported security vulnerabilities in multiple products including:
     - [adp](https://www.adp.com/) (July 29, 2023): Data disclosure via Excessive Data Exposure
