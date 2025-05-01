@@ -13,7 +13,7 @@ I live by several mantras; I ain't afeared of no man nor ghost. I don't take no 
 I like to have fun while working hard, and love [God](https://churchofjesuschrist.org), family, technology, [people](https://www.linkedin.com/in/benfrancom/), [art](https://benfran.com/tags/#art/), [music](https://benfran.com/tags/#music/), pumping iron, and biking. I also love self-deprecating humor, and the other kinds–if there are any.
 
 - I’m currently working on Enterprise Architecture at my day job, and do some other various and miscellaneous things described below.
-- ✏️ Some things I've created:
+- Some things I've created:
   - [pod2book](https://pod2book.com) tool that uses AI to convert podcasts to eBooks for the neurodivergent, deaf/hard of hearing and people that just like to read.
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
   - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert)
