@@ -10,7 +10,7 @@ I live by several mantras; I ain't afeared of no man nor ghost. I don't take no 
 
 ## Me in 300 seconds – If you are a slow reader
 
-I like to have fun while working hard, and love [God](https://churchofjesuschrist.org), family, technology, [people](https://www.linkedin.com/in/benfrancom/), [art](https://benfran.com/tags/#art/), [music](https://benfran.com/tags/#music/) and biking. I also love self-deprecating humor, and the other kinds–if there are any.
+I like to have fun while working hard, and love [God](https://churchofjesuschrist.org), family, technology, [people](https://www.linkedin.com/in/benfrancom/), [art](https://benfran.com/tags/#art/), [music](https://benfran.com/tags/#music/), pumping iron, and biking. I also love self-deprecating humor, and the other kinds–if there are any.
 
 - I’m currently working on Enterprise Architecture at my day job, and do some other various and miscellaneous things.
 - Some things I've created:
