@@ -14,9 +14,9 @@ I like to have fun while working hard, and love [God](https://churchofjesuschris
 
 - I’m currently working on Enterprise Architecture at my day job, and do some other various and miscellaneous things described below.
 - ✏️ Some things I've created:
-  - [pod2book](https://pod2book.com) tool that converts podcasts to eBooks for the neurodivergent, deaf/hard of hearing and people that just like to read.
+  - [pod2book](https://pod2book.com) tool that uses AI to convert podcasts to eBooks for the neurodivergent, deaf/hard of hearing and people that just like to read.
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [GitHub Enterprise License Alert]([https://github.com/EISMGard/github-audit-tool](https://github.com/EISMGard/github-enterprise-license-alert))
+  - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert)
   - [EISMGard Company](https://www.eismgard.com)
   - [Website](https://benfran.com)
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
