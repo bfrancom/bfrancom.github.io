@@ -13,14 +13,21 @@ I live by several mantras; I ain't afeared of no man nor ghost. I don't take no 
 I like to have fun while working hard, and love [God](https://churchofjesuschrist.org), family, technology, [people](https://www.linkedin.com/in/benfrancom/), [art](https://benfran.com/tags/#art/), [music](https://benfran.com/tags/#music/), pumping iron, and biking. I also love self-deprecating humor, and the other kinds–if there are any.
 
 - I’m currently working on Enterprise Architecture at my day job, and do some other various and miscellaneous things.
-- Some things I've created:
+- ✏️ Some things I've created:
   - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [GitHub Enterprise License Alert](https://github.com/EISMGard/github-enterprise-license-alert)
+  - [GitHub Enterprise License Alert]([https://github.com/EISMGard/github-audit-tool](https://github.com/EISMGard/github-enterprise-license-alert))
   - [EISMGard Company](https://www.eismgard.com)
   - [Website](https://benfran.com)
   - [LinkedIn](https://www.linkedin.com/in/benfrancom/)
   - [Habit Wallpaper](https://habituwall.com)
   - [AD-minister Better book and resources](https://administerbetter.com)
+- 💻 Open Source Contributions:
+  - [Grafana contributor](https://github.com/grafana/grafana-github-actions/commits?author=bfrancom)
+  - [Backstage.io contributor](https://github.com/backstage/backstage/pull/24137/commits)
+  - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
+  - [GitHub Gists](https://gist.github.com/bfrancom)
+  - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
+  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
 - Fun Facts:
   - I wrote an [Android](https://github.com/bfrancom/ClerkCount) app a long while ago
   - I also like to read, [write](https://benfran.com) and [draw](https://benfran.com/tags/#art)
@@ -38,13 +45,8 @@ I like to have fun while working hard, and love [God](https://churchofjesuschris
   - Bob's your uncle
   - Monkey paws do in fact grant wishes
   - Baby ducks > Full grown geese
-- 💻 Open Source Contributions:
-  - [GitHub Security Audit Tool](https://github.com/EISMGard/github-audit-tool)
-  - [GitHub Gists](https://gist.github.com/bfrancom)
-  - [StackOverflow Answers](https://stackoverflow.com/users/7016129/ben-francom)
-  - [ClerkCount Android App](https://github.com/bfrancom/ClerkCount)
 
-I’m one of those rare people with a weird balance of being both left and right-brained. I play well with others, remain calm in emergencies, and am a top performer whether alone or working with a team. 
+I’m one of those rare people with a weird balance of being both left and right-brained. I play well with others, remain calm in emergencies, and am a top performer whether alone or working with a team.
 
 I've never been one to just sit on their laurels (whatever those are) waiting for things to happen. I enjoy working with people, learning new things, and engineering cool solutions.
 
